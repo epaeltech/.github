@@ -41,7 +41,7 @@ We apply Engineering Principles discipline to every line of code we ship:
 - Data Integrity: Maintaining strict document structures within Firestore to support cross-platform analytics.
 
 ## 📬 Contact & Governance
-- Founder & CEO: Robert Rocheforte Kollie.
+- Founder & CEO: Roche Kollie.
 
 - Locations: Monrovia, Liberia | York, Pennsylvania.
 
