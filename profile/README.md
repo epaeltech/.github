@@ -2,6 +2,25 @@
 
 **Engineering West Africa’s Digital Renaissance.**
 
+Let's build the future together!
+
+![Epael Tech Logo](https://github.com/[epaeltech]/[epaeltech]/blob/[branch]/logo.png?raw=true)
+
+## About Us
+
+Epael Tech is a ***movement of the next generation of entrepreneurs, developers, engineers, and innovators*** leveraging technologies to foster economic growth, enhance the quality of life, and develop individuals and communities.
+
+## Motto
+
+**Empower people and enrich lives.**
+
+## Our Mission
+
+At Epael Tech, we are driven by a bold mission:
+
+*To build products and services to empower people and enrich lives.*
+
+
 Epael Tech is a multi-sector technology conglomerate based in Monrovia, Liberia. We specialize in building scalable, identity-first software solutions that bridge the gap between complex regional challenges and elegant technical solutions. Our mission is to transform the digital landscape of Liberia by providing high-performance infrastructure for education, commerce, real estate, and entertainment.
 
 ## 🏗 The Venture Ecosystem
