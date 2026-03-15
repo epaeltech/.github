@@ -4,7 +4,9 @@
 
 Let's build the future together!
 
-![Epael Tech Logo](https://github.com/[epaeltech]/[epaeltech]/blob/[branch]/logo.png?raw=true)
+<p align="center">
+  <img src="[./public/assets/logos/cleverhigh-logo-color.png](https://github.com/[epaeltech]/[epaeltech]/blob/[branch]/logo.png?raw=true)" alt="Epael Tech Logo">
+</p>
 
 ## About Us
 
