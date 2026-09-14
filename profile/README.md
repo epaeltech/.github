@@ -1,12 +1,27 @@
-# Epael Tech (Empower People and Enrich Lives) 🇱🇷
+<div align="center">
+  <img src="./public/logo-light.png" alt="Epael Logo" width="400" height="117" style="border-radius: 24px; margin-bottom: 16px;" />
 
-**Engineering West Africa’s Digital Renaissance.**
+# epael.com
 
-Let's build the future together!
+### High-Performance Core Operational Engine & Multi-Tier Service Marketplace
+  
+  [![Framework: Next.js](https://img.shields.io/badge/Frontend-Next.js%2014-black?style=flat-square&logo=next.js)](https://nextjs.org/)
+  [![Serverless: Cloud Functions v2](https://img.shields.io/badge/Backend-Cloud%20Functions%20v2-009688?style=flat-square&logo=googlecloud&logoColor=white)](https://firebase.google.com/docs/functions)
+  [![Cloud: Firebase](https://img.shields.io/badge/Cloud-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/)
+  [![Runtime: Node.js 22](https://img.shields.io/badge/Runtime-Node.js%2022-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+  [![Language: TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-<p align="center">
-  <img src="[./public/assets/logos/cleverhigh-logo-color.png](https://github.com/[epaeltech]/[epaeltech]/blob/[branch]/logo.png?raw=true)" alt="Epael Tech Logo">
-</p>
+  Visit us at [www.epael.com](http://www.epael.com)
+
+### Firebase App Hosting URLs
+
+- **Production (`prod`):** [https://prod--epaelcom.us-east4.hosted.app](https://prod--epaelcom.us-east4.hosted.app)
+- **Main Preview (`main`):** [https://main--epaelcom.us-east4.hosted.app](https://main--epaelcom.us-east4.hosted.app)
+- **Staging / Testing (`dev`):** [https://dev--epaeltest.us-east4.hosted.app](https://dev--epaeltest.us-east4.hosted.app)
+- **UAT Sandbox (`test`):** [https://test--epaeltest.us-east4.hosted.app](https://test--epaeltest.us-east4.hosted.app)
+
+---
+</div>
 
 ## About Us
 
